@@ -5,4 +5,4 @@ A violent, sexy, multiplayer first person shooter based on the ioquake3 engine (
 kcp -i openarena
 ````
 
-![OpenArena Screenshot 1](https://lut.im/TJ6MRNQ29p/WP4Uv5eZ4PtLOy1e.jpg)
+![OpenArena Screenshot 1](https://lut.im/YRJvsQbZ3W/1E3TpjsAa6UnFDqR.jpg)
