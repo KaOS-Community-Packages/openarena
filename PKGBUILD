@@ -27,7 +27,7 @@ build() {
 package() {
     install -d ${pkgdir}/opt/openarena
     cp -r * ${pkgdir}/opt/openarena/
-    chmod +x ${pkgdir}/opt/openarena/openarena.x86_64
+    chmod +x ${pkgdir}/opt/openarena/openarena-0.8.8/openarena.x86_64
     
     install -Dm755 ${srcdir}/launch-openarena.sh ${pkgdir}/usr/bin/launch-openarena.sh
     install -Dm644 $srcdir/openarena.desktop ${pkgdir}/usr/share/applications/openarena.desktop
