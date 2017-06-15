@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=OpenArena
+GenericName=FPS
+Comment=A community-produced deathmatch FPS based on GPL idTech3 technology.
+Exec=/usr/bin/launch-openarena.sh
+Icon=openarena
+StartupNotify=true
+Terminal=False
+Type=Application
+Categories=Game;ActionGame;
+ 
